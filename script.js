@@ -1,3 +1,3 @@
 console.warn('hare krishna')
 console.error('hare krishna')
-console.clear('hare krishna')
+console.clear();
